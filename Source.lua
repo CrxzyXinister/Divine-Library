@@ -56,7 +56,7 @@ local Themes = {
     ["Cyberpunk Yellow"]= { P = Color3.fromRGB(255, 215, 0),   L = Color3.fromRGB(255, 235, 100), D = Color3.fromRGB(180, 150, 0)   },
     ["Neon Green"]      = { P = Color3.fromRGB(50,  255, 50),  L = Color3.fromRGB(100, 255, 100), D = Color3.fromRGB(20,  180, 20)  },
     ["Royal Purple"]    = { P = Color3.fromRGB(138, 43,  226), L = Color3.fromRGB(170, 80,  255), D = Color3.fromRGB(90,  20,  150) },
-    ["Toxic Neon"]      = { P = Color3.fromRGB(50, 255, 50), L = Color3.fromRGB(100, 255, 100),   D = Color.3fromRGB(20, 185, 20), },
+    ["Toxic Neon"]      = { P = Color3.fromRGB(50, 255, 50), L = Color3.fromRGB(100, 255, 100),   D = Color3.fromRGB(20, 185, 20), },
 }
 
 -- C holds the live color values — mutated by UpdateTheme()
