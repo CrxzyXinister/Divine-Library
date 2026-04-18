@@ -1,6 +1,6 @@
 --[[
 ════════════════════════════════════════════════════════════════
-           ZYPHROT UI LIBRARY — DOCUMENTATION v1.0
+           DIVINE UI LIBRARY — DOCUMENTATION v1.0
 ════════════════════════════════════════════════════════════════
 
 OVERVIEW
